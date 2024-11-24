@@ -1,6 +1,4 @@
-# PRODIGY_WD_04
-
-Here’s a sample `README.md` for your personal portfolio project:  
+# PRODIGY_WD_04 
 
 ```markdown
 # 🌟 Personal Portfolio Website  
